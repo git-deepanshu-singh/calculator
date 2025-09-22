@@ -14,6 +14,4 @@ It can perform simple arithmetic operations like addition, subtraction, multipli
   - `.` → Decimal support  
   - `=` → Evaluate the expression  
 
----
-
-## 📂 Project Structure  
+--- 
